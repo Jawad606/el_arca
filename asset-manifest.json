@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/el_arca/static/css/main.89c1fc91.css",
-    "main.js": "/el_arca/static/js/main.223cd3bc.js",
+    "main.js": "/el_arca/static/js/main.20758df9.js",
     "static/js/787.ede029fa.chunk.js": "/el_arca/static/js/787.ede029fa.chunk.js",
     "static/media/Euclid_Circular_A_Medium.ttf": "/el_arca/static/media/Euclid_Circular_A_Medium.a5befbfcb71cd093cc56.ttf",
     "static/media/Euclid_Circular_A_SemiBold.ttf": "/el_arca/static/media/Euclid_Circular_A_SemiBold.ae11344face2a74d2042.ttf",
     "index.html": "/el_arca/index.html",
     "main.89c1fc91.css.map": "/el_arca/static/css/main.89c1fc91.css.map",
-    "main.223cd3bc.js.map": "/el_arca/static/js/main.223cd3bc.js.map",
+    "main.20758df9.js.map": "/el_arca/static/js/main.20758df9.js.map",
     "787.ede029fa.chunk.js.map": "/el_arca/static/js/787.ede029fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89c1fc91.css",
-    "static/js/main.223cd3bc.js"
+    "static/js/main.20758df9.js"
   ]
 }
