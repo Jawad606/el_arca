@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/el_arca/static/css/main.fab1846b.css",
-    "main.js": "/el_arca/static/js/main.14d688df.js",
+    "main.css": "/el_arca/static/css/main.20a2164c.css",
+    "main.js": "/el_arca/static/js/main.18e898f4.js",
     "static/js/787.ede029fa.chunk.js": "/el_arca/static/js/787.ede029fa.chunk.js",
     "static/media/Euclid_Circular_A_Medium.ttf": "/el_arca/static/media/Euclid_Circular_A_Medium.a5befbfcb71cd093cc56.ttf",
     "static/media/Euclid_Circular_A_SemiBold.ttf": "/el_arca/static/media/Euclid_Circular_A_SemiBold.ae11344face2a74d2042.ttf",
     "index.html": "/el_arca/index.html",
-    "main.fab1846b.css.map": "/el_arca/static/css/main.fab1846b.css.map",
-    "main.14d688df.js.map": "/el_arca/static/js/main.14d688df.js.map",
+    "main.20a2164c.css.map": "/el_arca/static/css/main.20a2164c.css.map",
+    "main.18e898f4.js.map": "/el_arca/static/js/main.18e898f4.js.map",
     "787.ede029fa.chunk.js.map": "/el_arca/static/js/787.ede029fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fab1846b.css",
-    "static/js/main.14d688df.js"
+    "static/css/main.20a2164c.css",
+    "static/js/main.18e898f4.js"
   ]
 }
